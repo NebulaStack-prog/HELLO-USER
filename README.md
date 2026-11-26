@@ -10,11 +10,11 @@ Explore our main activities, projects and development history.
 
 **[Enter NESTIMS Hub](https://github.com/NebulaStack-prog/NebulaStack-Hub)**
 
-* 💻 NebulaStack-Infotech: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Infotech)
+* 💻 **[Infotech](https://github.com/NebulaStack-prog/NebulaStack-Infotech)**: Software development and artificial intelligence.
 
-* 🎮 NebulaStack-Games: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Games)
+* 🎮 **[Games](https://github.com/NebulaStack-prog/NebulaStack-Games)**: This area contains games, prototypes, and experiments with gameplay mechanics.
 
-* 🔬 NebulaStack-Explore: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Explore)
+* 🔬 **[Explore](https://github.com/NebulaStack-prog/NebulaStack-Explore)**: Research materials, analytical publications, and explorations of various technologies and scientific fields.
 
 ## Our core projects
 
