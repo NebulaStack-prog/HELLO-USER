@@ -38,6 +38,6 @@ Explore our main activities, projects and development history.
 
 * 🎨 **[Studio](https://github.com/NebulaStack-prog/NebulaStack-Studio)**: It features visual experiments, brand artwork reimagined in fictional universes, emblems, and other graphic design projects.
 
-* **[News](https://github.com/NebulaStack-prog/News)**: News, announcements, and updates for the NESTIMS ecosystem.
+* 📰  **[News](https://github.com/NebulaStack-prog/News)**: News, announcements, and updates for the NESTIMS ecosystem.
 
 **NESTIMS · Est. 2025**
