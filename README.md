@@ -12,14 +12,10 @@ Explore our main activities, projects and development history.
 
 ## Explore other NESTIMS directions
 
-- [Labs](https://github.com/NebulaStack-prog/NebulaStack-Labs)
-  
-- [Robotech](https://github.com/NebulaStack-prog/NebulaStack-Robotech)
-  
-- [Olymp](https://github.com/NebulaStack-prog/NebulaStack-Olymp)
-  
-- [Studio](https://github.com/NebulaStack-prog/NebulaStack-Studio)
-  
-- [News](https://github.com/NebulaStack-prog/News)
+- **[Labs](https://github.com/NebulaStack-prog/NebulaStack-Labs)**
+- **[Robotech](https://github.com/NebulaStack-prog/NebulaStack-Robotech)**
+- **[Olymp](https://github.com/NebulaStack-prog/NebulaStack-Olymp)**
+- **[Studio](https://github.com/NebulaStack-prog/NebulaStack-Studio)**
+- **[News](https://github.com/NebulaStack-prog/News)**
 
 **NESTIMS · Est. 2025**
