@@ -10,6 +10,12 @@ Explore our main activities, projects and development history.
 
 **[Enter NESTIMS Hub](https://github.com/NebulaStack-prog/NebulaStack-Hub)**
 
+* 💻 NebulaStack-Infotech: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Infotech)
+
+* 🎮 NebulaStack-Games: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Games)
+
+* 🔬 NebulaStack-Explore: [Details →](https://github.com/NebulaStack-prog/NebulaStack-Explore)
+
 ## Our core projects
 
 * **[NESTIMS Launcher](https://github.com/NebulaStack-prog/NESTIMS-Launcher)**: A personal smart launcher for products within the NESTIMS ecosystem.
