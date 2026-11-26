@@ -18,15 +18,15 @@ Explore our main activities, projects and development history.
 
 ## Our core projects
 
-* **[NESTIMS Launcher](https://github.com/NebulaStack-prog/NESTIMS-Launcher)**: A personal smart launcher for products within the NESTIMS ecosystem.
+* **[NESTIMS Launcher](https://github.com/NebulaStack-prog/NESTIMS-Launcher)** (NS-023): A personal smart launcher for products within the NESTIMS ecosystem.
 
-* **[NebulaStack Launcher](https://github.com/NebulaStack-prog/NebulaStack-Launcher)**: A personal launcher for products within the NESTIMS ecosystem.
+* **[NebulaStack Launcher](https://github.com/NebulaStack-prog/NebulaStack-Launcher)** (NS-019): A personal launcher for products within the NESTIMS ecosystem.
 
-* **[Voice Assistant](https://github.com/NebulaStack-prog/Voice-Assistant)**: AI-powered assistant for writing and improving messages.
+* **[Voice Assistant](https://github.com/NebulaStack-prog/Voice-Assistant)** (NS-017): AI-powered assistant for writing and improving messages.
 
-* **[Relovio](https://github.com/NebulaStack-prog/Relovio)**: A full-stack web application designed to digitize and organize your moving process.
+* **[Relovio](https://github.com/NebulaStack-prog/Relovio)** (NS-020): A full-stack web application designed to digitize and organize your moving process.
 
-* **[The One](https://github.com/NebulaStack-prog/The-One)**: A psychological horror visual novel where your only weapon is Python.
+* **[The One](https://github.com/NebulaStack-prog/The-One)** (NS-021): A psychological horror visual novel where your only weapon is Python.
 
 ## Explore other NESTIMS directions
 
