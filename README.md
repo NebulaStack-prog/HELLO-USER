@@ -28,6 +28,8 @@ Explore our main activities, projects and development history.
 
 * **[The One](https://github.com/NebulaStack-prog/The-One)** **(NS-021)**: A psychological horror visual novel where your only weapon is Python.
 
+* **[Droso Path](https://github.com/NebulaStack-prog/Droso-Path) (NS-024)**: Machine learning using fruit fly behavior.
+
 ## Explore other NESTIMS directions
 
 * 🤖 **[Robotech](https://github.com/NebulaStack-prog/NebulaStack-Robotech)**: Engineering projects and technical experiments in robotics, electronics, aviation, and automated systems.
